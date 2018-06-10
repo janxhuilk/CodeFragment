@@ -1,3 +1,4 @@
+/** when u insert larage data to db, u can use transaction for getting more speed */
 try
 	{
 		//if (!DB->Open(TEXT("ODBC;DSN=AntiDB"), NULL, NULL))
